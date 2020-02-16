@@ -10,3 +10,10 @@ However, my desire to develop in the field of web development has not disappeare
 - Basic: Python, JavaScript, Git, React
 ### Code examples
 [Code example on github](https://github.com/EndzheYarullina/todo-front)
+### Education 
+- Kazan Federal University<br>
+  Institute of mathematics and mechanics, Mathematics
+- Innopolis University<br>
+  courses: "Secure systems and networks"
+### English
+Elementary
